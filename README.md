@@ -1,4 +1,4 @@
 # quizz_app
 
-A new Flutter project.
+This project is basically for learning purpose, good for those starters who are just begining and want to learn Flutter from very basics.
 
